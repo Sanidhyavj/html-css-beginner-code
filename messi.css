@@ -1,0 +1,47 @@
+p {
+    color:aqua;
+    background-color: blue;
+}
+body{
+    background-color: black;
+    color: white;
+    background-image: url("https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltf83b9578c2cc8c82/6426d520c43e6b68f5bd82cc/GOAL_-_Blank_WEB_-_Facebook_-_2023-03-31T134149.308.png?auto=webp&format=pjpg&width=3840&quality=60") ;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: aliceblue;
+    font-weight: bolder;
+    text-align: center;  
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+}
+
+h1:hover{
+    color: darkblue;
+    text-decoration: underline;
+}
+h1:active{
+    color: aquamarine;
+}
+
+#leo {
+    font-size: 25px;
+    border-color: aqua;
+    border-width: 5px;
+    background-color: brown;
+    padding: 1em 2em;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+#leo:hover {
+    color: aliceblue;
+    border-color: blue;
+
+}
+div{
+    display: flexbox;
+    justify-content: space-evenly;
+}
